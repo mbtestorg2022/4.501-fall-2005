@@ -38,8 +38,45 @@ Grading
 
 Due to the size of the class and the fact that we are working in teams your fellow classmates will have a hand in determining your individual final grade. Each team of four will individually evaluate the other three team members after the final presentation in December. Your final grade will be determined as a variation of the overall grade for the team. For example, if your team receives a B as the average grade for the semester and your teammates qualify you to have contributed to the team your personal grade for the semester will be a B+ or an A. If you slack off or minimally contribute to your teams efforts you will receive a B- or a C. Since everyone has a specific role to play on your team individual contributions should be evident at reviews. Please talk to us early if irreconcilable disputes occur we would like to address them sooner rather than later.
 
-| activities | percentages |
-| --- | --- |
-| Attendance and Participation in Class (Full Participation in all Aspects of the Course) | 30% |
-| Assignments | 50% |
-| Final Project | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and Participation in Class (Full Participation in all Aspects of the Course)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

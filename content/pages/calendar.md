@@ -4,18 +4,159 @@ title: Calendar
 uid: c7733300-65e6-1304-5d19-52a2e568756e
 ---
 
-| WEEK # | Topics | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Traditional Design and Construction**{{< /td-colspan >}} |||
-| 1 | Introduction to Traditional Design |  |
-| 2 | Field Trip | Construction methods due |
-| 3 | Presentation on Design | Wall section design due |
-| 4 | Presentation on Construction | Wall section construction due |
-| {{< td-colspan 3 >}}**Computer Controlled Design and Construction**{{< /td-colspan >}} |||
-| 5 | CNC Construction |  |
-| 6 | Presentation on Design | Construction methods due |
-| 7 | Field Trip - Sargent Wood Products | Wall section design due |
-| 8 | Presentation on Construction | Wall section construction due |
-| {{< td-colspan 3 >}}**Final Construction**{{< /td-colspan >}} |||
-| 9 | Student Proposal Presentations |  |
-| 10 | Student Final Presentations | Final presentation
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Traditional Design and Construction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Traditional Design
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip
+{{< tdclose >}}
+{{< tdopen >}}
+Construction methods due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation on Design
+{{< tdclose >}}
+{{< tdopen >}}
+Wall section design due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation on Construction
+{{< tdclose >}}
+{{< tdopen >}}
+Wall section construction due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Computer Controlled Design and Construction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+CNC Construction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation on Design
+{{< tdclose >}}
+{{< tdopen >}}
+Construction methods due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip - Sargent Wood Products
+{{< tdclose >}}
+{{< tdopen >}}
+Wall section design due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation on Construction
+{{< tdclose >}}
+{{< tdopen >}}
+Wall section construction due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Final Construction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Student Proposal Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Student Final Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
