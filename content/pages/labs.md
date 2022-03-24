@@ -8,4 +8,4 @@ Two lab files are presented here which give a brief introduction to making surfa
 
 Surfaces in Digital ProjectTM ([PDF]({{< baseurl >}}/resources/catialab1surface))
 
-Solids in Digital ProjectTM (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/catialab2solids))
+Solids in Digital ProjectTM ([PDF - 2.5 MB]({{< baseurl >}}/resources/catialab2solids))
